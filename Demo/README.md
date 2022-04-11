@@ -1,7 +1,8 @@
 # Twitter Bootstrap
 
 ## Начало работы
-**Twitter Bootstrap** - CSS-фреймворк. ![Картинка](https://disk.yandex.ru/i/4DikCsAvgz_5XA)
+**Twitter Bootstrap** - CSS-фреймворк. ![Картинка](https://kurets.ru/images/information-security/gosudarstvennaya-taina-lekciya/gosudarstvennaya-taina-lekciya.jpg
+)
 
 Варианты установки:
 * CDN
